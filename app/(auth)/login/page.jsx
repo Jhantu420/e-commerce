@@ -54,7 +54,7 @@ export default function LoginPage() {
             <a href="/forgot-password" className="text-sm text-blue-600 hover:underline">
               Forgot password?
             </a>
-            <a href="/signup" className="text-sm text-blue-600 hover:underline">
+            <a href="/sign-up" className="text-sm text-blue-600 hover:underline">
               Sign up
             </a>
           </div>
